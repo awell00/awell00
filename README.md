@@ -11,4 +11,5 @@ I'm Awell from France, and I'm starting to learn web development and I like to l
 ### Social Network
 
 * X (Twitter) : https://twitter.com/AwellTv
+* Huggingface : https://huggingface.co/Awell00
 
