@@ -4,7 +4,7 @@ I'm Awell from France, and I'm starting to learn web development and I like to l
 
 ### Skills and Experience
 * Typescript / Javascript
-* Python
+* Python / AI
 * Prisma / PostgreSQL
 * React / Vite / Node.js
 
