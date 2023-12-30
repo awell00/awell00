@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awell</h1>
 <h3 align="center">I'm currently studying engineering, exploring web development, and delving into AI and machine learning to enhance my projects with advanced models.</h3>
 
-- 🌱 I’m currently learning **Neural Network, Machine Learning,Back-End**
+- 🌱 I’m currently learning **Neural Network, Machine Learning, Back-End**
 
 - 👨‍💻 All of my projects are available at [salmero.fr](salmero.fr)
 
