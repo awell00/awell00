@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Neural Network, Machine Learning, Back-End**
 
-- 👨‍💻 All of my projects are available at [salmero.fr](salmero.fr)
+- 👨‍💻 All of my projects are available at [salmero.fr](https://salmero.fr)
 
 - 📫 How to reach me **awellpro@gmail.com**
 
