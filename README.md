@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/awelltv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awelltv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/auxane-salmero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="auxane-salmero" height="30" width="40" /></a>
+<a href="https://huggingface.co/Awell00" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="auxane-salmero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
